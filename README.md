@@ -178,7 +178,7 @@ ACID-compliant distributed booking with **serializable isolation**, **2PL concur
 
 ---
 
-## 📊 Stats
+## Stats
 
 <div align="center">
 
