@@ -191,10 +191,6 @@ ACID-compliant distributed booking with **serializable isolation**, **2PL concur
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zayedansari2&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" width="96%"/>
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zayedansari2&theme=react-dark&hide_border=true" width="96%"/>
 
 </div>
