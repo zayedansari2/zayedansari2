@@ -1,73 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0d1b2a,70:1a1a2e,100:0f3460&height=220&section=header&text=Zayed%20Ansari&fontSize=64&fontColor=e8f4fd&fontAlignY=38&desc=Software%20Engineer%20%7C%20UW%20CS%20%2B%20Data%20Science%20%2727&descAlignY=58&descSize=17&animation=fadeIn&fontAlignX=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0c1445,70:0f2557,100:1e3a5f&height=230&section=header&text=Zayed%20Ansari&fontSize=68&fontColor=e0f2fe&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Builder%20%7C%20UW%20CS%20%2B%20Data%20Science%20%2727&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=SDE+Intern+%40+Amazon+Web+Services+%E2%98%81%EF%B8%8F;EC2+Nitro+Health+%7C+Distributed+Systems;Prev%3A+HeyMilo+AI+%E2%80%A2+CionSystems;Building+things+that+scale." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Fine-tuning+LLMs+%F0%9F%A4%96;RAG+pipelines+%7C+Vector+DBs+%7C+LangChain;Distributed+systems+at+scale;Backend+infra+that+doesn't+fall+over;Building+AI+products+that+ship." alt="Typing SVG" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/zayedansari112%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zayedansari112@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/zayedansari-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/zayedansari)
-[![GitHub](https://img.shields.io/badge/zayedansari2-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zayedansari2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayedansari112@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zayedansari)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayedansari2)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
 
-<br/>
+---
 
-## `$ whoami`
+## <code>$ whoami</code>
 
 ```typescript
 const zayed = {
-  education:  "University of Washington — B.S. CS & Data Science ('27)",
-  current:    "SDE Intern @ Amazon Web Services · EC2 Health Analytics",
-  prev:       ["HeyMilo AI", "CionSystems"],
-  interests:  ["Distributed Systems", "Backend Infra", "Security", "ML/AI"],
-  location:   "Seattle, WA",
-  building:   "Things that scale in prod, and eventually — my own company.",
+  school:    "University of Washington — CS & Data Science ('27)",
+  prev:      ["HeyMilo AI (NLP/Voice AI)", "CionSystems (M365 Compliance)"],
+  building:  ["LLM fine-tuning", "RAG pipelines", "distributed backend systems"],
+  obsessing: "making AI actually useful in production",
+  location:  "Seattle, WA",
+  endgame:   "industry → my own startup",
 };
 ```
 
 ---
 
-## 🏢 Experience
+## 🤖 AI / ML Projects
 
-| | Company | Role | Period |
-|---|---|---|---|
-| ☁️ | **Amazon Web Services** | SDE Intern — EC2 Health Analytics | Jun 2026 – Sep 2026 |
-| 🔐 | **CionSystems** | Software Engineering Intern | Jun 2025 – Sep 2025 |
-| 🎙️ | **HeyMilo AI** | SDE Intern | Jun 2024 – Sep 2024 |
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1000&color=A78BFA&center=false&vCenter=true&width=680&lines=Fine-tuned+LLaMA+on+custom+datasets...;Built+RAG+pipelines+with+ChromaDB+%2B+LangChain...;Reduced+hallucination+rate+on+domain-specific+queries...;Deployed+multilingual+NLP+at+scale+in+prod..." alt="AI Typing" />
 
-<details>
-<summary><b>☁️ Amazon Web Services</b> — EC2 Nitro Health Monitoring</summary>
 <br/>
 
-- Building backend services for EC2 Nitro Health monitoring infrastructure, supporting distributed systems reliability and service observability across AWS production environments
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### 🏎️ Formula 1 AI Assistant
+`Python` `FastAPI` `LLaMA` `Unsloth` `ChromaDB` `LangChain` `React` `Supabase`
 
-<details>
-<summary><b>🔐 CionSystems</b> — Multi-tenant M365 Compliance Platform</summary>
-<br/>
+**Fine-tuned a LLaMA model** on a curated F1 dataset using Unsloth, reducing hallucination rate on racing-domain queries and improving factual accuracy across historical performance reasoning.
 
-- Architected a multi-tenant Microsoft 365 compliance platform in **ASP.NET Core** using Microsoft Graph API, processing **1,000+ policy resources** per snapshot
-- Engineered a property-level **JSON diff engine** reducing manual audit time by **80%** and enabling automated configuration drift detection
-- Developed async background services with cron scheduling to automate daily snapshot collection across production tenants
+Built a **RAG pipeline** over structured + unstructured F1 data, improving answer relevance **40%** over keyword-only baseline. Full-stack: FastAPI + PostgreSQL + React frontend.
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>🎙️ HeyMilo AI</b> — Multilingual AI Voice Agent</summary>
-<br/>
+### 🔎 AI Document Search Platform
+`Python` `FastAPI` `ChromaDB` `LangChain` `OpenAI`
 
-- Built Python modules for a multilingual AI voice agent supporting **500+ automated interviews/month** across **10+ locales**, using OOP patterns for locale-agnostic extensibility
-- Optimized transcription and NLP pipelines, reducing end-to-end latency by **25%** while improving accuracy at scale
+**Context-aware document retrieval** using a full RAG architecture — vector storage with ChromaDB, semantic chunking via LangChain, and FastAPI for real-time chatbot workflows.
 
-</details>
+Supports offline retrieval, multi-document context fusion, and streaming LLM responses for production-grade query latency.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+### 🎙️ Multilingual AI Voice Agent @ HeyMilo AI *(Production)*
+`Python` `NLP` `OOP` `Transcription Pipelines`
+
+Shipped Python modules for a multilingual AI voice agent running **500+ automated interviews/month** across **10+ locales**. Designed locale-agnostic architecture using OOP patterns for clean extensibility across languages.
+
+Profiled and optimized transcription + NLP pipelines — **25% latency reduction** while improving accuracy at scale in a live production environment.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Projects
+## ⚙️ Systems & Backend Projects
 
 <table>
 <tr>
@@ -76,33 +84,33 @@ const zayed = {
 ### 🔍 Mini Search Engine
 `C` `C++` `POSIX Sockets` `Multithreading`
 
-Scalable search engine over **10,000+ documents** with inverted indexing. Sub-**12ms** average query latency, sustaining **200+ concurrent connections** via a multithreaded HTTP server with POSIX thread pooling — **3x throughput** over single-threaded baseline.
+Google-style search over **10,000+ documents** with inverted indexing and a multithreaded HTTP server — sub-**12ms** query latency, **200+ concurrent connections**, **3x throughput** over single-threaded baseline.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏎️ Formula 1 AI App
-`Python` `FastAPI` `React` `LLaMA` `Supabase`
+### 🗄️ SimpleDB Engine
+`Java` `B+ Trees` `WAL` `ACID`
 
-Fine-tuned a **LLaMA-based LLM** on a custom F1 dataset with Unsloth. Built a **RAG pipeline** using ChromaDB + LangChain improving answer relevance **40%** over keyword-only baseline. Full-stack: FastAPI + PostgreSQL + React.
+Relational DB from scratch — buffer pool management, heap files, joins, **ACID transactions**, write-ahead logging, B+ tree indexing, and cost-based query optimization for **million-record** workloads.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🗄️ SimpleDB Engine
-`Java` `SQL` `B+ Trees` `WAL`
+### ✈️ Flight Booking Service
+`Java` `MySQL` `2PL` `Azure`
 
-Relational DB engine from scratch — buffer pool management, heap files, joins, **ACID transactions**, write-ahead logging for crash recovery, B+ tree indexing, and cost-based query optimization for **million-record workloads**.
+ACID-compliant distributed booking system with **serializable isolation**, **2PL concurrency control**, and deadlock detection + retry logic — **30% query time reduction** under multi-user load.
 
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Flight Booking Service
-`Java` `SQL` `MySQL` `Azure`
+### 🔐 M365 Compliance Platform @ CionSystems *(Production)*
+`ASP.NET Core` `Microsoft Graph API` `C#`
 
-ACID-compliant distributed booking system with **serializable transaction isolation**, **2PL concurrency control**, and deadlock detection with automatic retry logic — **30% query time reduction** across multi-user scenarios.
+Multi-tenant compliance platform processing **1,000+ policy resources per snapshot** with a JSON diff engine that reduced manual audit time by **80%** and automated config drift detection across enterprise tenants.
 
 </td>
 </tr>
@@ -114,31 +122,36 @@ ACID-compliant distributed booking system with **serializable transaction isolat
 
 <div align="center">
 
+**AI / ML**
+
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+
 **Languages**
 
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![Python](https://skillicons.dev/icons?i=py)](https://python.org)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
-[![SQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![R](https://skillicons.dev/icons?i=r)](https://r-project.org)
 
-**Frameworks & Backend**
+**Backend & Frontend**
 
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![Dotnet](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 
-**Infrastructure & Tools**
+**Infrastructure**
 
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 
@@ -150,16 +163,20 @@ ACID-compliant distributed booking system with **serializable transaction isolat
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zayedansari2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&ring_color=0ea5e9&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayedansari2&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=zayedansari2&show_icons=true&hide_border=true&bg_color=020617&title_color=38bdf8&icon_color=a78bfa&text_color=94a3b8&ring_color=38bdf8&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayedansari2&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8&langs_count=8" height="170"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=zayedansari2&theme=dark&hide_border=true&background=0d1117&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&sideNums=e2e8f0" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=zayedansari2&theme=dark&hide_border=true&background=020617&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&sideNums=e0f2fe" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zayedansari2&bg_color=0d1117&color=38bdf8&line=0ea5e9&point=e2e8f0&area=true&area_color=0ea5e9&hide_border=true" width="96%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zayedansari2&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" width="96%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zayedansari2&bg_color=020617&color=38bdf8&line=0ea5e9&point=a78bfa&area=true&area_color=0ea5e9&hide_border=true" width="96%"/>
 
 </div>
 
@@ -167,8 +184,12 @@ ACID-compliant distributed booking system with **serializable transaction isolat
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:0a0a0f&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=475569&center=true&vCenter=true&width=500&lines=Always+shipping.+Always+learning." alt="Footer typing" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=zayedansari2&color=0ea5e9&style=flat-square&label=profile+views)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=zayedansari2&color=38bdf8&style=flat-square&label=profile+views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0f2557,100:020617&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
