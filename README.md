@@ -1,12 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0c1445,70:0f2557,100:1e3a5f&height=230&section=header&text=Zayed%20Ansari&fontSize=68&fontColor=e0f2fe&fontAlignY=38&desc=Backend%20Engineer%20%7C%20AI%20Builder%20%7C%20UW%20CS%20%2B%20Data%20Science%20%2727&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=680&lines=Fine-tuning+LLMs+%F0%9F%A4%96;RAG+pipelines+%7C+Vector+DBs+%7C+LangChain;Distributed+systems+at+scale;Backend+infra+that+doesn't+fall+over;Building+AI+products+that+ship." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0c1445,70:0f2557,100:1e3a5f&height=220&section=header&text=Zayed%20Ansari&fontSize=68&fontColor=e0f2fe&fontAlignY=38&desc=AI%20Builder%20%7C%20Backend%20Engineer%20%7C%20UW%20CS%20%2B%20Data%20Science%20%2727&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zayedansari112@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+on+custom+datasets+%F0%9F%A4%96;RAG+pipelines+%7C+Vector+DBs+%7C+LangChain;Distributed+systems+%7C+Backend+infra;Building+AI+products+that+actually+ship." alt="Typing SVG" />
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zayedansari)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayedansari2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
@@ -15,103 +16,113 @@
 
 ---
 
-## <code>$ whoami</code>
+## 🖥️ about
 
 ```typescript
 const zayed = {
-  school:    "University of Washington — CS & Data Science ('27)",
-  prev:      ["HeyMilo AI (NLP/Voice AI)", "CionSystems (M365 Compliance)"],
-  building:  ["LLM fine-tuning", "RAG pipelines", "distributed backend systems"],
-  obsessing: "making AI actually useful in production",
-  location:  "Seattle, WA",
-  endgame:   "industry → my own startup",
+  school:   "University of Washington — B.S. CS & Data Science ('27)",
+  focus:    ["LLM fine-tuning", "RAG systems", "distributed backends", "infra"],
+  tools:    ["LangChain", "Unsloth", "Ollama", "ChromaDB", "HuggingFace"],
+  location: "Seattle, WA",
+  building: "AI products that work in production, not just notebooks",
+  endgame:  "industry experience → my own company",
 };
 ```
 
 ---
 
-## 🤖 AI / ML Projects
+## 🤖 AI Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3500&pause=1000&color=A78BFA&center=false&vCenter=true&width=680&lines=Fine-tuned+LLaMA+on+custom+datasets...;Built+RAG+pipelines+with+ChromaDB+%2B+LangChain...;Reduced+hallucination+rate+on+domain-specific+queries...;Deployed+multilingual+NLP+at+scale+in+prod..." alt="AI Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=A78BFA&center=false&vCenter=true&width=700&lines=Fine-tuned+LLaMA+on+custom+datasets+with+Unsloth...;Built+RAG+pipelines+with+ChromaDB+%2B+LangChain...;Improved+domain+answer+relevance+40%25+over+keyword+baseline...;Reduced+hallucination+rate+on+domain-specific+queries." alt="AI Typing" />
 
 <br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
+<br/>
 
-### 🏎️ Formula 1 AI Assistant
-`Python` `FastAPI` `LLaMA` `Unsloth` `ChromaDB` `LangChain` `React` `Supabase`
+**🏎️ Formula 1 AI Assistant**
 
-**Fine-tuned a LLaMA model** on a curated F1 dataset using Unsloth, reducing hallucination rate on racing-domain queries and improving factual accuracy across historical performance reasoning.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Built a **RAG pipeline** over structured + unstructured F1 data, improving answer relevance **40%** over keyword-only baseline. Full-stack: FastAPI + PostgreSQL + React frontend.
+Fine-tuned a **LLaMA model** on a curated Formula 1 dataset using **Unsloth**, reducing hallucination rate and improving factual accuracy across historical performance reasoning.
 
+Built a **RAG pipeline** over structured + unstructured F1 data with **ChromaDB** + **LangChain**, improving answer relevance **40%** over keyword-only baseline on domain-specific queries.
+
+<br/>
 </td>
 <td width="50%" valign="top">
+<br/>
 
-### 🔎 AI Document Search Platform
-`Python` `FastAPI` `ChromaDB` `LangChain` `OpenAI`
+**🔎 AI Document Search Platform**
 
-**Context-aware document retrieval** using a full RAG architecture — vector storage with ChromaDB, semantic chunking via LangChain, and FastAPI for real-time chatbot workflows.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-Supports offline retrieval, multi-document context fusion, and streaming LLM responses for production-grade query latency.
+Full **RAG architecture** for context-aware document retrieval — semantic chunking via **LangChain**, vector storage with **ChromaDB**, and a **FastAPI** backend serving real-time streaming LLM responses.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" colspan="2">
+Supports offline retrieval, multi-document context fusion, and production-grade query latency with a chatbot-style interface.
 
-### 🎙️ Multilingual AI Voice Agent @ HeyMilo AI *(Production)*
-`Python` `NLP` `OOP` `Transcription Pipelines`
-
-Shipped Python modules for a multilingual AI voice agent running **500+ automated interviews/month** across **10+ locales**. Designed locale-agnostic architecture using OOP patterns for clean extensibility across languages.
-
-Profiled and optimized transcription + NLP pipelines — **25% latency reduction** while improving accuracy at scale in a live production environment.
-
+<br/>
 </td>
 </tr>
 </table>
 
 ---
 
-## ⚙️ Systems & Backend Projects
+## ⚙️ Systems Projects
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<br/>
 
-### 🔍 Mini Search Engine
-`C` `C++` `POSIX Sockets` `Multithreading`
+**🔍 Mini Search Engine**
 
-Google-style search over **10,000+ documents** with inverted indexing and a multithreaded HTTP server — sub-**12ms** query latency, **200+ concurrent connections**, **3x throughput** over single-threaded baseline.
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![POSIX](https://img.shields.io/badge/POSIX-Threads-222222?style=flat-square)
 
+Google-style search over **10k+ docs** with inverted indexing, multithreaded HTTP server, sub-**12ms** query latency, **200+ concurrent connections**, **3× throughput** over single-threaded.
+
+<br/>
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<br/>
 
-### 🗄️ SimpleDB Engine
-`Java` `B+ Trees` `WAL` `ACID`
+**🗄️ SimpleDB Engine**
 
-Relational DB from scratch — buffer pool management, heap files, joins, **ACID transactions**, write-ahead logging, B+ tree indexing, and cost-based query optimization for **million-record** workloads.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![B+ Trees](https://img.shields.io/badge/B%2B_Trees-555?style=flat-square)
 
+Relational DB from scratch — buffer pools, heap files, joins, **ACID transactions**, write-ahead logging, B+ tree indexing, cost-based query optimization for **million-record** workloads.
+
+<br/>
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+<br/>
 
-### ✈️ Flight Booking Service
-`Java` `MySQL` `2PL` `Azure`
+**✈️ Flight Booking Service**
 
-ACID-compliant distributed booking system with **serializable isolation**, **2PL concurrency control**, and deadlock detection + retry logic — **30% query time reduction** under multi-user load.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-</td>
-<td width="50%" valign="top">
+ACID-compliant distributed booking with **serializable isolation**, **2PL concurrency control**, deadlock detection + retry — **30% query time reduction** under multi-user load.
 
-### 🔐 M365 Compliance Platform @ CionSystems *(Production)*
-`ASP.NET Core` `Microsoft Graph API` `C#`
-
-Multi-tenant compliance platform processing **1,000+ policy resources per snapshot** with a JSON diff engine that reduced manual audit time by **80%** and automated config drift detection across enterprise tenants.
-
+<br/>
 </td>
 </tr>
 </table>
@@ -124,42 +135,50 @@ Multi-tenant compliance platform processing **1,000+ policy resources per snapsh
 
 **AI / ML**
 
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+
+<br/>
+
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
+
+<br/>
 
 **Languages**
 
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![R](https://skillicons.dev/icons?i=r)](https://r-project.org)
-
-**Backend & Frontend**
-
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![Dotnet](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org)
 [![Postgres](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 
-**Infrastructure**
+<br/>
 
+**Backend, Frontend & Infra**
+
+[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
 [![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -168,15 +187,15 @@ Multi-tenant compliance platform processing **1,000+ policy resources per snapsh
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=zayedansari2&theme=dark&hide_border=true&background=020617&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&sideNums=e0f2fe" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=zayedansari2&theme=dark&hide_border=true&background=020617&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&sideNums=e0f2fe" width="55%"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zayedansari2&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" width="96%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=zayedansari2&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" width="96%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zayedansari2&bg_color=020617&color=38bdf8&line=0ea5e9&point=a78bfa&area=true&area_color=0ea5e9&hide_border=true" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zayedansari2&theme=react-dark&hide_border=true" width="96%"/>
 
 </div>
 
@@ -184,11 +203,13 @@ Multi-tenant compliance platform processing **1,000+ policy resources per snapsh
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=500&color=475569&center=true&vCenter=true&width=500&lines=Always+shipping.+Always+learning." alt="Footer typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=500&color=334155&center=true&vCenter=true&width=460&lines=always+shipping.+always+learning." alt="Footer" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=zayedansari2&color=38bdf8&style=flat-square&label=profile+views)
+![Views](https://komarev.com/ghpvc/?username=zayedansari2&color=38bdf8&style=flat-square&label=profile+views)
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0f2557,100:020617&height=120&section=footer&animation=fadeIn" width="100%"/>
 
