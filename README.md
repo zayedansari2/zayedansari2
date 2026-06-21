@@ -4,128 +4,41 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+on+custom+datasets+%F0%9F%A4%96;RAG+pipelines+%7C+Vector+DBs+%7C+LangChain;Distributed+systems+%7C+Backend+infra;Building+AI+products+that+actually+ship." alt="Typing SVG" />
-
-<br/><br/>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zayedansari)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayedansari2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
 
 ---
 
-## 🖥️ about
+## 🖥️ About
 
 ```typescript
 const zayed = {
   school:   "University of Washington — B.S. CS & Data Science ('27)",
-  focus:    ["LLM fine-tuning", "RAG systems", "distributed backends", "infra"],
-  tools:    ["LangChain", "Unsloth", "Ollama", "ChromaDB", "HuggingFace"],
+  focus:    ["LLMs", "RAG systems", "backend infra", "distributed systems"],
   location: "Seattle, WA",
-  building: "AI products that work in production, not just notebooks",
-  endgame:  "industry experience → my own company",
+  building: "AI and backend projects that can run in production",
 };
 ```
 
 ---
 
-## 🤖 AI Projects
+## 🚀 Featured Repositories
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=A78BFA&center=false&vCenter=true&width=700&lines=Fine-tuned+LLaMA+on+custom+datasets+with+Unsloth...;Built+RAG+pipelines+with+ChromaDB+%2B+LangChain...;Improved+domain+answer+relevance+40%25+over+keyword+baseline...;Reduced+hallucination+rate+on+domain-specific+queries." alt="AI Typing" />
+### AI / LLM Projects
 
-<br/>
+- [**F1-FinetunedLLM**](https://github.com/zayedansari2/F1-FinetunedLLM) — LLaMA-based Formula 1 model fine-tuned with Unsloth and packaged for Ollama.
+- [**LocalRAGAgent**](https://github.com/zayedansari2/LocalRAGAgent) — local RAG demo using LangChain + Chroma over scraped review data.
+- [**RAGwithMCP**](https://github.com/zayedansari2/RAGwithMCP) — RAG-focused experimentation with MCP integrations.
+- [**AIVoiceAgent**](https://github.com/zayedansari2/AIVoiceAgent) — Python voice-agent project.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<br/>
+### Systems / Backend / Full-Stack
 
-**🏎️ Formula 1 AI Assistant**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-Fine-tuned a **LLaMA model** on a curated Formula 1 dataset using **Unsloth**, reducing hallucination rate and improving factual accuracy across historical performance reasoning.
-
-Built a **RAG pipeline** over structured + unstructured F1 data with **ChromaDB** + **LangChain**, improving answer relevance **40%** over keyword-only baseline on domain-specific queries.
-
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
-
-**🔎 AI Document Search Platform**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-Full **RAG architecture** for context-aware document retrieval — semantic chunking via **LangChain**, vector storage with **ChromaDB**, and a **FastAPI** backend serving real-time streaming LLM responses.
-
-Supports offline retrieval, multi-document context fusion, and production-grade query latency with a chatbot-style interface.
-
-<br/>
-</td>
-</tr>
-</table>
-
----
-
-## ⚙️ Systems Projects
-
-<table>
-<tr>
-<td width="33%" valign="top">
-<br/>
-
-**🔍 Mini Search Engine**
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![POSIX](https://img.shields.io/badge/POSIX-Threads-222222?style=flat-square)
-
-Google-style search over **10k+ docs** with inverted indexing, multithreaded HTTP server, sub-**12ms** query latency, **200+ concurrent connections**, **3× throughput** over single-threaded.
-
-<br/>
-</td>
-<td width="33%" valign="top">
-<br/>
-
-**🗄️ SimpleDB Engine**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![B+ Trees](https://img.shields.io/badge/B%2B_Trees-555?style=flat-square)
-
-Relational DB from scratch — buffer pools, heap files, joins, **ACID transactions**, write-ahead logging, B+ tree indexing, cost-based query optimization for **million-record** workloads.
-
-<br/>
-</td>
-<td width="33%" valign="top">
-<br/>
-
-**✈️ Flight Booking Service**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-
-ACID-compliant distributed booking with **serializable isolation**, **2PL concurrency control**, deadlock detection + retry — **30% query time reduction** under multi-user load.
-
-<br/>
-</td>
-</tr>
-</table>
+- [**MCP_WeatherServer**](https://github.com/zayedansari2/MCP_WeatherServer) — weather-focused MCP server.
+- [**car-customizer**](https://github.com/zayedansari2/car-customizer) — 3D car customization app built with React + Three.js.
+- [**AssignmentTracker**](https://github.com/zayedansari2/AssignmentTracker) — Java console assignment tracker app.
+- [**Banking-System**](https://github.com/zayedansari2/Banking-System) — Java banking system project.
 
 ---
 
@@ -133,52 +46,20 @@ ACID-compliant distributed booking with **serializable isolation**, **2PL concur
 
 <div align="center">
 
-**AI / ML**
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
-
-<br/>
-
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)
-
-<br/>
-
-**Languages**
-
-[![Java](https://skillicons.dev/icons?i=java)](https://java.com)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
-[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org)
-[![Postgres](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
-
-<br/>
-
-**Backend, Frontend & Infra**
-
-[![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
-[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
-[![Nextjs](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![Nodejs](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://kernel.org)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![Azure](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -189,23 +70,13 @@ ACID-compliant distributed booking with **serializable isolation**, **2PL concur
 
 <img src="https://streak-stats.demolab.com?user=zayedansari2&theme=dark&hide_border=true&background=020617&ring=38bdf8&fire=a78bfa&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=475569&sideNums=e0f2fe" width="55%"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zayedansari2&theme=react-dark&hide_border=true" width="96%"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=500&color=334155&center=true&vCenter=true&width=460&lines=always+shipping.+always+learning." alt="Footer" />
-
-<br/>
-
 ![Views](https://komarev.com/ghpvc/?username=zayedansari2&color=38bdf8&style=flat-square&label=profile+views)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0f2557,100:020617&height=120&section=footer&animation=fadeIn" width="100%"/>
 
