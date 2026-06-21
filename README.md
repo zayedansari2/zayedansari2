@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+engineer+who+ships+to+prod;Distributed+systems+%7C+infra+%7C+concurrency;Fine-tuning+LLMs+%7C+RAG+%7C+LangChain;Databases+from+scratch+%7C+ACID+%7C+B%2B+Trees;Building+things+that+scale+and+think." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+engineer;Distributed+systems+%7C+infra+%7C;Fine-tuning+LLMs+%7C+RAG+%7C+LangChain;Databases+from+scratch+%7C+ACID+%7C+B%2B+Trees;Building+things+that+scale;" alt="Typing SVG" />
 
 <br/><br/>
 
