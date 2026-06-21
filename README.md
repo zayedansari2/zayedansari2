@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0c1445,70:0f2557,100:1e3a5f&height=220&section=header&text=Zayed%20Ansari&fontSize=68&fontColor=e0f2fe&fontAlignY=38&desc=AI%20Builder%20%7C%20Backend%20Engineer%20%7C%20UW%20CS%20%2B%20Data%20Science%20%2727&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0c1445,70:0f2557,100:1e3a5f&height=220&section=header&text=Zayed%20Ansari&fontSize=68&fontColor=e0f2fe&fontAlignY=38&desc=Backend%20Engineer%20%7C%20SWE%20%40%20AWS%20%7C%20AI%20Builder%20%7C%20Multiple%20Startups%20%7C%20UW%20CS%20%2B%20Data%20Science%20%2727&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Fine-tuning+LLMs+on+custom+datasets+%F0%9F%A4%96;RAG+pipelines+%7C+Vector+DBs+%7C+LangChain;Distributed+systems+%7C+Backend+infra;Building+AI+products+that+actually+ship." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+engineer+who+ships+to+prod;Distributed+systems+%7C+infra+%7C+concurrency;Fine-tuning+LLMs+%7C+RAG+%7C+LangChain;Databases+from+scratch+%7C+ACID+%7C+B%2B+Trees;Building+things+that+scale+and+think." alt="Typing SVG" />
 
 <br/><br/>
 
@@ -12,19 +12,22 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zayedansari2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
+<br/>
+
 </div>
 
 ---
 
-## 🖥️ about
+## 🖥️ About
 
 ```typescript
 const zayed = {
-  school:   "University of Washington — B.S. CS & Data Science ('27)",
-  focus:    ["LLM fine-tuning", "RAG systems", "distributed backends", "infra"],
-  tools:    ["LangChain", "Unsloth", "Ollama", "ChromaDB", "HuggingFace"],
+  school:   "University of Washington — B.S. CS & Data Science Graduating June 2027",
+  experience: ["SWE @ AWS", "multiple startup engineering roles"],
+  swe:      ["distributed systems", "backend infra", "databases", "concurrency"],
+  ai:       ["LLM fine-tuning", "RAG pipelines", "vector search", "LangChain"],
+  languages: ["Java", "Python", "C/C++", "TypeScript", "SQL"],
   location: "Seattle, WA",
-  building: "AI products that work in production, not just notebooks",
   endgame:  "industry experience → my own company",
 };
 ```
@@ -33,14 +36,9 @@ const zayed = {
 
 ## 🤖 AI Projects
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3200&pause=1200&color=A78BFA&center=false&vCenter=true&width=700&lines=Fine-tuned+LLaMA+on+custom+datasets+with+Unsloth...;Built+RAG+pipelines+with+ChromaDB+%2B+LangChain...;Improved+domain+answer+relevance+40%25+over+keyword+baseline...;Reduced+hallucination+rate+on+domain-specific+queries." alt="AI Typing" />
-
-<br/>
-
 <table>
 <tr>
-<td width="50%" valign="top">
-<br/>
+<td width="50%" valign="top"><br/>
 
 **🏎️ Formula 1 AI Assistant**
 
@@ -53,14 +51,12 @@ const zayed = {
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-Fine-tuned a **LLaMA model** on a curated Formula 1 dataset using **Unsloth**, reducing hallucination rate and improving factual accuracy across historical performance reasoning.
+Fine-tuned a **LLaMA model** on a curated F1 dataset using **Unsloth**, reducing hallucination rate and improving factual accuracy across historical performance reasoning.
 
-Built a **RAG pipeline** over structured + unstructured F1 data with **ChromaDB** + **LangChain**, improving answer relevance **40%** over keyword-only baseline on domain-specific queries.
+Built a **RAG pipeline** over structured + unstructured F1 data with **ChromaDB** + **LangChain** — **40% improvement** in answer relevance over keyword-only baseline.
 
-<br/>
-</td>
-<td width="50%" valign="top">
-<br/>
+<br/></td>
+<td width="50%" valign="top"><br/>
 
 **🔎 AI Document Search Platform**
 
@@ -70,12 +66,11 @@ Built a **RAG pipeline** over structured + unstructured F1 data with **ChromaDB*
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-Full **RAG architecture** for context-aware document retrieval — semantic chunking via **LangChain**, vector storage with **ChromaDB**, and a **FastAPI** backend serving real-time streaming LLM responses.
+Full **RAG architecture** for context-aware document retrieval — semantic chunking via **LangChain**, vector storage in **ChromaDB**, and a **FastAPI** backend with real-time streaming LLM responses.
 
-Supports offline retrieval, multi-document context fusion, and production-grade query latency with a chatbot-style interface.
+Supports offline retrieval, multi-document context fusion, and production-grade query latency with a chatbot interface.
 
-<br/>
-</td>
+<br/></td>
 </tr>
 </table>
 
@@ -85,34 +80,29 @@ Supports offline retrieval, multi-document context fusion, and production-grade 
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<br/>
+<td width="33%" valign="top"><br/>
 
 **🔍 Mini Search Engine**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![POSIX](https://img.shields.io/badge/POSIX-Threads-222222?style=flat-square)
+![POSIX](https://img.shields.io/badge/POSIX_Threads-222222?style=flat-square)
 
-Google-style search over **10k+ docs** with inverted indexing, multithreaded HTTP server, sub-**12ms** query latency, **200+ concurrent connections**, **3× throughput** over single-threaded.
+Search over **10k+ docs** with inverted indexing and a multithreaded HTTP server. Sub-**12ms** query latency, **200+ concurrent connections**, **3× throughput** over single-threaded baseline.
 
-<br/>
-</td>
-<td width="33%" valign="top">
-<br/>
+<br/></td>
+<td width="33%" valign="top"><br/>
 
 **🗄️ SimpleDB Engine**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![B+ Trees](https://img.shields.io/badge/B%2B_Trees-555?style=flat-square)
+![WAL](https://img.shields.io/badge/B%2B_Trees_+_WAL-555555?style=flat-square)
 
-Relational DB from scratch — buffer pools, heap files, joins, **ACID transactions**, write-ahead logging, B+ tree indexing, cost-based query optimization for **million-record** workloads.
+Relational DB from scratch — buffer pools, heap files, **ACID transactions**, write-ahead logging, B+ tree indexing, and cost-based query optimization for **million-record** workloads.
 
-<br/>
-</td>
-<td width="33%" valign="top">
-<br/>
+<br/></td>
+<td width="33%" valign="top"><br/>
 
 **✈️ Flight Booking Service**
 
@@ -120,10 +110,9 @@ Relational DB from scratch — buffer pools, heap files, joins, **ACID transacti
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-ACID-compliant distributed booking with **serializable isolation**, **2PL concurrency control**, deadlock detection + retry — **30% query time reduction** under multi-user load.
+ACID-compliant distributed booking with **serializable isolation**, **2PL concurrency control**, and deadlock detection + retry — **30% query time reduction** under concurrent load.
 
-<br/>
-</td>
+<br/></td>
 </tr>
 </table>
 
@@ -135,12 +124,12 @@ ACID-compliant distributed booking with **serializable isolation**, **2PL concur
 
 **AI / ML**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
 
 <br/>
 
@@ -198,10 +187,6 @@ ACID-compliant distributed booking with **serializable isolation**, **2PL concur
 ---
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4500&pause=500&color=334155&center=true&vCenter=true&width=460&lines=always+shipping.+always+learning." alt="Footer" />
-
-<br/>
 
 ![Views](https://komarev.com/ghpvc/?username=zayedansari2&color=38bdf8&style=flat-square&label=profile+views)
 
