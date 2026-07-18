@@ -143,6 +143,7 @@ ACID-compliant distributed booking with **serializable isolation**, **2PL concur
 **Languages**
 
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
+[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org)
