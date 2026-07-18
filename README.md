@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero: animated glass banner -->
-<img src="./assets/banner.svg" width="100%" alt="Zayed Ansari — Backend Engineer"/>
+<img src="https://cdn.jsdelivr.net/gh/zayedansari2/zayedansari2@main/assets/banner.svg" width="100%" alt="Zayed Ansari — Backend Engineer"/>
 
 <br/><br/>
 
@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="./assets/divider.svg" width="85%" alt=""/>
+<img src="https://raw.githubusercontent.com/zayedansari2/zayedansari2/main/assets/divider.png" width="85%" alt=""/>
 
 </div>
 
@@ -110,7 +110,7 @@ const zayed = {
 </div>
 
 <div align="center">
-  <img src="./assets/divider.svg" width="85%" alt=""/>
+  <img src="https://raw.githubusercontent.com/zayedansari2/zayedansari2/main/assets/divider.png" width="85%" alt=""/>
 </div>
 
 <br/>
@@ -181,7 +181,7 @@ const zayed = {
 </table>
 
 <div align="center">
-  <img src="./assets/glass-frame.svg" width="60%" alt=""/>
+  <img src="https://raw.githubusercontent.com/zayedansari2/zayedansari2/main/assets/glass-frame.png" width="60%" alt=""/>
 </div>
 
 <br/>
@@ -251,7 +251,7 @@ Built a multithreaded HTTP server with POSIX thread pooling and lock contention 
 </table>
 
 <div align="center">
-  <img src="./assets/divider.svg" width="85%" alt=""/>
+  <img src="https://raw.githubusercontent.com/zayedansari2/zayedansari2/main/assets/divider.png" width="85%" alt=""/>
 </div>
 
 <br/>
@@ -313,7 +313,7 @@ Built a multithreaded HTTP server with POSIX thread pooling and lock contention 
 </div>
 
 <div align="center">
-  <img src="./assets/divider.svg" width="85%" alt=""/>
+  <img src="https://raw.githubusercontent.com/zayedansari2/zayedansari2/main/assets/divider.png" width="85%" alt=""/>
 </div>
 
 <br/>
