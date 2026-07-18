@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="45%" stop-color="#0c1445"/>
+      <stop offset="75%" stop-color="#0f2557"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+    <linearGradient id="glassStroke" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
+      <stop offset="50%" stop-color="#38bdf8" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.25"/>
+    </linearGradient>
+    <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e0f2fe"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#c4b5fd"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" fill="url(#bg)"/>
+
+  <!-- ambient orbs -->
+  <g filter="url(#blur)" opacity="0.55">
+    <circle cx="180" cy="80" r="70" fill="#38bdf8">
+      <animate attributeName="cy" values="80;110;80" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0.8;0.5" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="980" cy="220" r="90" fill="#a78bfa">
+      <animate attributeName="cy" values="220;190;220" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;0.75;0.4" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="620" cy="40" r="50" fill="#22d3ee">
+      <animate attributeName="cx" values="620;660;620" dur="9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- glass panel -->
+  <g opacity="0.92">
+    <rect x="80" y="72" width="1040" height="176" rx="28" fill="#ffffff" fill-opacity="0.06" stroke="url(#glassStroke)" stroke-width="1.5"/>
+    <rect x="92" y="84" width="1016" height="52" rx="16" fill="#ffffff" fill-opacity="0.04" stroke="#ffffff" stroke-opacity="0.08"/>
+  </g>
+
+  <!-- title -->
+  <text x="600" y="138" text-anchor="middle" font-family="Segoe UI, system-ui, sans-serif" font-size="52" font-weight="700" fill="url(#titleGrad)" filter="url(#glow)">Zayed Ansari</text>
+  <text x="600" y="178" text-anchor="middle" font-family="Segoe UI, system-ui, sans-serif" font-size="15" fill="#94a3b8" letter-spacing="0.08em">BACKEND ENGINEER · SWE @ AWS · AI BUILDER · UW CS + DS '27</text>
+
+  <!-- floating glass chips -->
+  <g>
+    <rect x="210" y="210" width="118" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.25">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="269" y="229" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#7dd3fc">distributed systems</text>
+
+    <rect x="390" y="210" width="92" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.25">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="5s" begin="0.5s" repeatCount="indefinite"/>
+    </rect>
+    <text x="436" y="229" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#c4b5fd">LLM / RAG</text>
+
+    <rect x="544" y="210" width="88" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#22d3ee" stroke-opacity="0.25">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="4.5s" begin="1s" repeatCount="indefinite"/>
+    </rect>
+    <text x="588" y="229" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#67e8f9">databases</text>
+
+    <rect x="694" y="210" width="78" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#38bdf8" stroke-opacity="0.25">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-7; 0,0" dur="5.5s" begin="0.3s" repeatCount="indefinite"/>
+    </rect>
+    <text x="733" y="229" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#7dd3fc">FastAPI</text>
+
+    <rect x="834" y="210" width="72" height="28" rx="14" fill="#ffffff" fill-opacity="0.08" stroke="#a78bfa" stroke-opacity="0.25">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="4.2s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="870" y="229" text-anchor="middle" font-family="JetBrains Mono, monospace" font-size="11" fill="#c4b5fd">Java</text>
+  </g>
+
+  <!-- scan line -->
+  <rect x="80" y="72" width="1040" height="176" rx="28" fill="url(#glassStroke)" opacity="0.08">
+    <animate attributeName="y" values="72;248;72" dur="10s" repeatCount="indefinite"/>
+    <animate attributeName="height" values="40;2;40" dur="10s" repeatCount="indefinite"/>
+  </rect>
+</svg>
