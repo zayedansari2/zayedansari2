@@ -6,8 +6,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0b122f,60:0f2557,100:1e3a5f&text=Zayed%20Ansari&fontSize=64&fontColor=e2e8f0&fontAlignY=38&desc=Backend%20Engineer%20•%20Distributed%20Systems%20•%20AI%20Infrastructure&descAlignY=60&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=800&color=38BDF8&center=true&vCenter=true&width=780&lines=I+build+scalable+backend+systems;I+ship+RAG+pipelines+that+actually+perform;I+care+about+latency%2C+reliability%2C+and+clean+architecture" alt="typing animation"/>
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zayedansari)
