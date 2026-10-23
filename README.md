@@ -7,8 +7,8 @@ SWE focused on distributed systems and AI infrastructure. B.S. in Computer Scien
 ## About
 
 - Experience: SWE at AWS
-- Focus: distributed systems, backend infrastructure, databases
-- Languages: Java, Python, C/C++, TypeScript, SQL
+- Focus: distributed systems, databases, backend infrastructure
+
 ## Systems Projects
 
 ### Mini Search Engine
@@ -28,10 +28,10 @@ SWE focused on distributed systems and AI infrastructure. B.S. in Computer Scien
 - Serializable transaction workflows
 - 2PL concurrency control with deadlock retry
 - About 30% better query time under concurrent load
-- Stack: Java, MySQL, Azure
+- Stack: Java, PostgreSQL
 
 ## Tech Stack
-
-- **AI / ML:** LangChain, OpenAI, HuggingFace, ChromaDB, Unsloth, FastAPI
-- **Languages:** Java, Python, C++, TypeScript, SQL
-- **Infra / Backend:** Spring, Node.js, Docker, Kubernetes, AWS, Azure
+- **Languages:** Java, Python, C/C++, SQL, R
+- **Infra / Backend:** Node.js, Flask, FastAPI Docker, Kubernetes, AWS, Azure
+- **Concepts:** System Design, OOP, OOD, REST APIs, CI/CD, CDK, IaC
+- **Tools:** Git, Linux/Unix, Shell Scripting, Claude Code, Codex, Cursor, Kiro, VSCode
